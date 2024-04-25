@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-searcharray = "^0.0.46"
+searcharray = "^0.0.47"
 
 
 [build-system]
